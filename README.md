@@ -127,3 +127,5 @@ const allEven = numbers.every(num => num % 2 === 0);
 console.log(allEven); // true
 ```
 
+
+
